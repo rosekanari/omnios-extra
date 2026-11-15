@@ -62,7 +62,6 @@ CONFIGURE_OPTS="
     --prefix=$PREFIX
     --sysconfdir=/etc$PREFIX
     --enable-hdri
-    --with-modules
     --with-heic
     --disable-static
 "
